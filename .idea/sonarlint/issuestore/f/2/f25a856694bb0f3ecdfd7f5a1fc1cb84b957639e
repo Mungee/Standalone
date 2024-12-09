@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(œ”ç
+<
+java:S1481"&Remove this unused "s" local variable.(¾Ü¨œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÉĞéüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ãõ‘«úÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "s".(ŞÙË÷üÿÿÿÿ
+A
+java:S1481"&Remove this unused "s" local variable.(ŞÙË÷üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÉĞéüÿÿÿÿ
+H
+java:S1144"-Remove this unused private "failsafe" method.(ÎÃ•ûÿÿÿÿ

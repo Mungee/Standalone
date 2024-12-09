@@ -1,0 +1,13 @@
+
+G
+java:S1197	"*Move the array designators [] to the type.(­¢ã¿8Òêùçû0
+L
+java:S1197
+"*Move the array designators [] to the type.(èŠÊ·ûÿÿÿÿ8Óêùçû0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áè¢ô8Ôêùçû0
+A
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8Õêùçû0
+]
+java:S1612&";Replace this lambda with method reference 'Arrays::stream'.(¶¥«ƒûÿÿÿÿ8ËÅ¶èû0
+M
+java:S1144"0Remove this unused private "mergeSorted" method.(³İ¥8Ùêùçû0

@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ß¥³üÿÿÿÿ8–Úñ·ü0
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘û±óùÿÿÿÿ8—Úñ·ü0
+g
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(š»£¾úÿÿÿÿ8˜Úñ·ü0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ªÌ÷·ü0
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8ªÌ÷·ü0
+N
+java:S1144",Remove this unused private "findPos" method.(‘û±óùÿÿÿÿ8™Úñ·ü0

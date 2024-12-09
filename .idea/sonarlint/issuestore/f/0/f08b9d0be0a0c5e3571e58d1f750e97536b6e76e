@@ -1,0 +1,9 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "length".(»ÀæÒıÿÿÿÿ8“„ñ¤€1
+M
+java:S1481"+Remove this unused "length" local variable.(»ÀæÒıÿÿÿÿ8•„ñ¤€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì’‹ñÿÿÿÿÿ8‡Áá¤€1
+f
+java:S1858""D"x" is already a string, there's no need to call "toString()" on it.(äßİ¾ûÿÿÿÿ8Áá¤€1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¬¾¶½8Áá¤€1

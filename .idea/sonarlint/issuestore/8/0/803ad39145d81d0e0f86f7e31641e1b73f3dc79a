@@ -1,0 +1,11 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Œï®öúÿÿÿÿ8øÈ¦¸ı0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8„’¦¸ı0
+o
+java:S1128"MRemove this unused import 'java.security.cert.CollectionCertStoreParameters'.(°²òñûÿÿÿÿ8…’¦¸ı0
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8…’¦¸ı0
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ùÈ¦¸ı0
+L
+java:S1128"/Remove this unused import 'java.util.function'.(Üş’¿8…’¦¸ı0
